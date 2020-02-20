@@ -1,0 +1,10 @@
+[user]
+	email = eykanal@gmail.com
+	name = Eliezer Kanal
+[alias]
+	st = status
+	dt = difftool
+	co = checkout
+	a = add
+	c = commit
+	b = branch
